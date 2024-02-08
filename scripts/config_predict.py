@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 '''
 Copyright (c) 21300-2121, Juan Miguel Jimeno
 All rights reserved.

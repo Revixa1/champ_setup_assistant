@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 '''
 Copyright (c) 2019-2020, Juan Miguel Jimeno
 All rights reserved.
@@ -32,7 +32,7 @@ try:
 except ImportError:
     pass
 
-import rviz
+from rviz import bindings as rviz
 import roslaunch
 
 class RvizWidget(QWidget):
